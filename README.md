@@ -23,8 +23,14 @@
 <h3> HelixDrew Server Info Site </h3>
 <b>This is the addon that connects with project web site and send all the info from server to web - page. On the Web-page you can find the players list with jobs, money, ping and etc. , logs for server (for admins only), and all information about runtime and ping on the server.</b>
 <h3>HelixDrew Whitelist</h3>
-<b> The Whitelist system for Helix framework.This systems using in Military RP or SWRP servers. Whitelist is the system that uses for placing the players for jobs, only can used by admins or leaders of legions. The main system for Military-Based servers.</b>
+<b> The Whitelist system for HelixDrew framework.This systems using in Military RP or SWRP servers. Whitelist is the system that uses for placing the players for jobs, only can used by admins or leaders of legions. The main system for Military-Based servers.</b>
 
 <img src="https://downloader.disk.yandex.ru/preview/d7f6f231f8cd34d851e9e5a9b2bbfb8a2456b29809a972bb6406a3a04b8ccbc7/60b3d324/fKqInKw3d7bLFOeFnMGnhLFkaNkqF5pUgOwpwI5z_Cxemcq_8OmIgA0h5NXiyr20J1keV8NtH3GJaA265MmAvEQztdGt20YqzKP9bBADa_2r8npumZHI4midPdWhecNq?uid=0&filename=WhiteList_for_MetaHub.psd&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2543x1329"></img>
 <img src = "https://downloader.disk.yandex.ru/preview/2b38a00614aa18f7a8b12ebff862da7828e92eaf69b9338206113ae6a42008a5/60b3d3c2/k30gkZTfm0BRzz4HhcJU3YCGoxon_V42UHA8JFJqk5pIKztNhET8Cx280AdRikwCa-gZuSAhw9QBNOv2BhYlIA%3D%3D?uid=0&filename=Maket_WhiteList.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2543x1329"></img>
+
+<h1>Current Work</h1>
+
+<b> Now we're working on getting key for S&box to make the SWRP gamemode there, you can find our forum theme on : https://forum.facepunch.com/t/cwrp-star-wars-roleplay-in-s-box/245084 . The first thing that we can create is the map that we creating on HL : Alyx Workshop Tools. The first screenshots of our job below:</b><br>
+![546560_screenshots_20210528144910_1](https://user-images.githubusercontent.com/83959607/120110704-fcbe2e80-c187-11eb-97a7-967d4e27b429.jpg)
+
 
